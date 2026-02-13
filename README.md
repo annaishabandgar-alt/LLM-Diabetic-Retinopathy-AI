@@ -88,6 +88,8 @@ Open in browser:
 http://localhost:8501
 
 ---
+Demo Link
+https://llm-diabetic-retinopathy-ai-1.onrender.com
 
 ## 🧠 System Workflow
 
